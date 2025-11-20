@@ -1,0 +1,5 @@
+Spring applications
+How to initaialize constructor in spring using xml
+How to initialize Autowire in spring using xml
+How to use byType and byName to select the bean class while initailizing the object
+What is scope and how objects will be created based on scopes
